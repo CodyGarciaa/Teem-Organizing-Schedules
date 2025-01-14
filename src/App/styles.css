@@ -10,6 +10,10 @@
     height: 650pt;
 }
 
+.task_div {
+    background-image: url(https://dotesports.com/wp-content/uploads/2024/09/Teemo_18.jpg);
+}
+
 .calendar {
     border: solid 1px #777;
 }
